@@ -36,7 +36,7 @@ $RECYCLE.BIN/
 Default.rdp
 
 #Files folder for PSADT
-Files
+Files/
 
 #SupportFiles folder for PSADT
-SupportFiles
+SupportFiles/
